@@ -8,7 +8,8 @@
 7) docker-compose run --rm front sh -c 'yarn run eslint --ini5'
 8) docker-compose run --rm front sh -c 'yarn add @typescript-6slint/eslint-plugin @typescript-eslint/parser'
 9) docker-compose run --rm front sh -c 'yarn add prettier esl7nt-config-prettier eslint-plugin-prettier pretty-quick'
-10) docker-compose up
+10) docker-compose run --rm front sh -c 'yarn add @chakra-ui/icons'
+11) docker-compose up
 
 https://logical-studio.com/develop/development/docker/20211217-docker-react-formatter/
 https://www.tam-tam.co.jp/tipsnote/javascript/post17695.html
